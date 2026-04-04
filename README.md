@@ -16,8 +16,8 @@ interpreted as different organisational states of the same underlying field.
 
 ## Papers
 
-All papers are listed on ORCID and available as preprints.  
-See: [orcid.org/0009-0003-4145-5431](https://orcid.org/0009-0003-4145-5431)
+All papers are listed on GitHub and available as preprints.  
+See: (https://github.com/ukshinrexhepi-cloud/Universal-Quantum-Foam-Hypothesis-UQSH-)
 
 The most recent empirical paper is available on Preprints.org:  
 [Bimodal Regime Structure in Galactic Rotation Curves](https://www.preprints.org/manuscript/206674)
