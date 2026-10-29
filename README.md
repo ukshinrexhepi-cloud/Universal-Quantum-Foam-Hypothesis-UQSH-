@@ -1,6 +1,6 @@
 # Universal Quantum Foam Hypothesis (UQSH)
 
-A field-based hypothesis that mechanically explains all physical forces.
+A field-based hypothesis that mechanically explains all physical phenomena.
 
 **Author:** Ukshin Q. Rexhepi | Independent Researcher, Tübingen, Germany  
 **GitHub:** [Universal-Quantum-Foam-Hypothesis-UQSH-](https://github.com/ukshinrexhepi-cloud/Universal-Quantum-Foam-Hypothesis-UQSH-)  
